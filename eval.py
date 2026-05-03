@@ -1,0 +1,1 @@
+trec_eval -q cranqrel.trec.txt results.txt
